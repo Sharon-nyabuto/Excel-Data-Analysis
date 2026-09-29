@@ -2,7 +2,7 @@
 
 >Date: 10/05/206 | Data Analysis Team | Period Covered in Analysis: Jan – Nov 2023
 
-## Project Overview
+## Overview
 
 **Food Basket** is a retail store chain in Kenya that specializes in the sale of everyday consumer goods. It has successfully built a customer base across multiple regions, setting a solid foundation for expansion. The business is seeking to ensure sustainable growth and maximum optimization of resource allocation in their expansion efforts. This analysis will provide data to guide decisions such as product refinement and specialization, key areas of investment and marketing strategies.
 
